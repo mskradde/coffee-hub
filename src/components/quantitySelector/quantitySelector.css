@@ -8,7 +8,7 @@
   border-radius: 100px 0 0 100px;
   background: #cf9775;
   box-shadow: none;
-  font-family: monospace;
+  font-family: "Sen", sans-serif;
   font-size: 1.5rem;
   padding: 12px 13px;
   font-weight: 600;
@@ -17,7 +17,7 @@
   border-radius: 0 100px 100px 0;
   background: #cf9775;
   box-shadow: none;
-  font-family: monospace;
+  font-family: "Sen", sans-serif;
   font-size: 1.5rem;
   padding: 10px 13px;
   font-weight: 600;
@@ -26,6 +26,6 @@
   background: white;
   padding: 8px 20px;
   font-size: 1.5rem;
-  font-family: monospace;
+  font-family: "Sen", sans-serif;
   color: #2d140d;
 }
