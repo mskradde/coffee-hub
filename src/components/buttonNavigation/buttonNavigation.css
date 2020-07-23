@@ -1,0 +1,33 @@
+.buttonnavigation {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  border-radius: 46px 46px 0 0;
+  box-shadow: 0 2px 88 #fde9da;
+  justify-content: center;
+  border: none;
+}
+
+.buttonnavigation > a {
+  background: #fff;
+  border: none;
+  padding: 21px 34px;
+  position: relative;
+  text-decoration: none;
+}
+.buttonnavigation_badge {
+  position: absolute;
+  top: 11px;
+  right: 22px;
+  background: #8c746a;
+  color: #fff;
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  font-size: 0.8rem;
+  text-align: center;
+  line-height: 1rem;
+}
