@@ -4,7 +4,7 @@
   align-items: center;
   width: 200px;
 }
-.minus {
+.btn-minus {
   border-radius: 100px 0 0 100px;
   background: #cf9775;
   box-shadow: none;
@@ -12,7 +12,7 @@
   padding: 12px 13px;
   font-weight: 600;
 }
-.plus {
+.btn-plus {
   border-radius: 0 100px 100px 0;
   background: #cf9775;
   box-shadow: none;

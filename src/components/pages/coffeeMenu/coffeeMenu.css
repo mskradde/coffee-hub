@@ -1,0 +1,21 @@
+.grid-container {
+  display: grid;
+  /* grid-template-rows: 30% 50% 20%;
+  grid-template-columns: 50%; */
+  /* grid-template-columns: 20px 40px auto 50px 40px; */
+  grid-template-rows: 10% 10% 70% 20%;
+}
+.grid-item-a {
+  grid-row-start: 1;
+  align-self: center;
+}
+
+.grid-item-b {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  align-self: start;
+}
+
+.grid-item-c {
+  grid-row-start: 4;
+}
