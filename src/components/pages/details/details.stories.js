@@ -10,7 +10,7 @@ export const basic = () => {
     const button = document.querySelector(".btn");
     button.addEventListener("click", () => {
       alert(button.innerHTML);
-      button.innerHTML = "Test";
+      const button = `Hello fishes`;
     });
   });
 
